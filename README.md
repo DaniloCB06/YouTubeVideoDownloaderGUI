@@ -1,7 +1,7 @@
 # YtbVideoDownloaderGUI
 This code provides a simple yet functional YouTube video and playlist downloader with a user-friendly interface, real-time progress tracking, and the ability to cancel downloads.
 
-NOTE: This code provides a graphical user interface (GUI) for downloading YouTube videos or playlists using the `yt_dlp` library. Below is a brief description of the code
+NOTE: This code provides a graphical user interface (GUI) for downloading YouTube videos or playlists using the `yt_dlp` library.
 
 ### Global Variables and Configurations:
 - **`cancel_download_flag`:** A global variable used to signal when to cancel the ongoing download.
