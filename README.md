@@ -27,3 +27,14 @@ NOTE: This code provides a graphical user interface (GUI) for downloading YouTub
 - **`choose_folder`:** Opens a file dialog to allow the user to select the folder where downloads will be saved.
 - **GUI Components:** The GUI is created using `Tkinter` and `ttkthemes`, with labels, buttons, a progress bar, and dynamic statistics to guide the user through selecting a folder, entering a URL, and downloading videos or playlists.
 - **Icon and Theme:** The window icon is set using `iconphoto()` with a `.png` image, and the GUI theme is customized with the `scidgreen` theme and a custom background color.
+
+### GUI Images:
+
+![image](https://github.com/user-attachments/assets/49025da1-811c-445e-a9a1-71acd9372c1b)
+
+![image2](https://github.com/user-attachments/assets/86c40fff-b028-4f89-8b46-1fb203e19be2)
+
+![Screenshot_1](https://github.com/user-attachments/assets/fb333b64-7baa-453a-a9e2-360f6fcdcb6f)
+
+
+
