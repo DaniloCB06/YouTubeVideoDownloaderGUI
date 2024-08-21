@@ -27,5 +27,3 @@ NOTE: This code provides a graphical user interface (GUI) for downloading YouTub
 - **`choose_folder`:** Opens a file dialog to allow the user to select the folder where downloads will be saved.
 - **GUI Components:** The GUI is created using `Tkinter` and `ttkthemes`, with labels, buttons, a progress bar, and dynamic statistics to guide the user through selecting a folder, entering a URL, and downloading videos or playlists.
 - **Icon and Theme:** The window icon is set using `iconphoto()` with a `.png` image, and the GUI theme is customized with the `scidgreen` theme and a custom background color.
-
-Overall, this code provides a simple yet functional YouTube video and playlist downloader with a user-friendly interface, real-time progress tracking, and the ability to cancel downloads.
