@@ -3,6 +3,8 @@ This code provides a simple yet functional YouTube video and playlist downloader
 
 NOTE: This code provides a graphical user interface (GUI) for downloading YouTube videos or playlists using the `yt_dlp` library.
 
+NOTE: INSTALL THE FFMPG TO RUN
+
 ### Global Variables and Configurations:
 - **`cancel_download_flag`:** A global variable used to signal when to cancel the ongoing download.
 - **`config_path`:** Defines the absolute path for a configuration file (`config.json`), which stores the last selected download directory.
